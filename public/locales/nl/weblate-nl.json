@@ -1,6 +1,8 @@
 {
-  "hello": "Hello",
-  "apple": "I have an apple",
-  "apple_plural": "I have {{count}} apples",
-  "apple_negative": "I have no apples"
+  "weblate": {
+    "hello": "Ahoj světe!\n",
+    "orangutan": "",
+    "try": "",
+    "thanks": ""
+  }
 }
