@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+.login {
+  width: 25%;
+  margin: 100px auto;
+  top: 50%;
+  position: relative;
+}
+
+body {
+  padding: 4%;
+}
+
+/*# sourceMappingURL=style.css.map */
